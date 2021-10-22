@@ -123,4 +123,3 @@ elif fun == 2:
 else:
     print("plz give right information ")
 
-print("farhan")
