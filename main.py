@@ -123,3 +123,4 @@ elif fun == 2:
 else:
     print("plz give right information ")
 print("today date is 25-10-21")
+print("today is monday")
