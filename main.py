@@ -122,4 +122,4 @@ elif fun == 2:
     read_report()
 else:
     print("plz give right information ")
-
+print("today date is 25-10-21")
